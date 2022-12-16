@@ -1,0 +1,1 @@
+This is a simple static webiste created using HTML and CSS . It contains normal html,css,responsive css and javascript with animation.
